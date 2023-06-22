@@ -2,4 +2,7 @@ Hello world,
 
 Here is my final project that I did for the IronHack Academy as a graduation project. Its possible to find more case studies and labs in the folders: Iron-Labs.Luis and IH_RH_DA_FT_OCT_2022.
 
+The aim of the project is to create a 'home-made' SAP version using GoogleSheets as the database. The information is exported to an internal website. There is also an option to generate invoices in PDF format. Python will also automatically analyse and export the information from GoogleSheets so that daily reports no longer need to be done manually. 
+
+
 Best wishes and thanks for your time!
