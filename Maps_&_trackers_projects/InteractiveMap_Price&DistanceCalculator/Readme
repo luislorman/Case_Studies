@@ -4,5 +4,10 @@ This code is created with the intention that the user enters a location (town an
 and the type of product being transported. An interactive map is displayed along with a new DF showing a list of distances between the user's input and the company's locations (random locations).
 This DF is sorted by closest location and price. 
 
+The map will have 3 different labels:
+Blue: company location (not real)
+Green: user's input
+Purple: it contains information about the distance of that particular Blue label and the user's input.
+
 Best regards,
 Luis
