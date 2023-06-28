@@ -1,0 +1,8 @@
+Hello,
+
+This code is created with the intention that the user enters a location (town and postcode)
+and the type of product being transported. An interactive map is displayed along with a new DF showing a list of distances between the user's input and the company's locations (random locations).
+This DF is sorted by closest location and price. 
+
+Best regards,
+Luis
