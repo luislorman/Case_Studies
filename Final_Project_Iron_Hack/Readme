@@ -2,7 +2,6 @@ Hello world,
 
 Here is my final project that I did for the IronHack Academy as a graduation project. Its possible to find more case studies and labs in the folders: Iron-Labs.Luis and IH_RH_DA_FT_OCT_2022.
 
-The aim of the project is to create a 'home-made' SAP version using GoogleSheets as the database. The information is exported to an internal website. There is also an option to generate invoices in PDF format. Python will also automatically analyse and export the information from GoogleSheets so that daily reports no longer need to be done manually. 
-
+The aim of the project is to reduce the time waste and human errors in the Procurement department, as well as the back and forth between the various stakeholders in terms of WH capacity. An user-friendly, "home-made" SAP version has been created, using GoogleSheets as a database. The information is exported to an internal website. There is also an option to generate invoices in PDF format. Python will also automatically parse and export the information from GoogleSheets so that daily reports no longer have to be done manually. 
 
 Best wishes and thanks for your time!
