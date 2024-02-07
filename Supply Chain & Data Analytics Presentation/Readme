@@ -1,7 +1,7 @@
 Hello World,
 
 
-In this folder, you will find an old presentation addressing a data analysis on the supply chain. The data had already been previously encoded. 
+In this folder, you will find an old presentation addressing a data analysis on the supply chain. The data had already been previously encrypted.
 The presentation covers several key topics to understand the functioning of the supply chain, such as total numbers,top performers, means, modes, standard deviation, Chi-Square tests, correlations, distribution graphs, types of offers and agreements achieved, as well as a thorough analysis of their characteristics.
 
 Tools used for this analysis include Python, MySQL, PowerBI and Excel.
