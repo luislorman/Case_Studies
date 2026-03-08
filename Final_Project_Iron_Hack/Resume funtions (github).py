@@ -4,6 +4,7 @@
 # #                 Final Project - Database Management in Cloud                              
 # 
 # 
+
 # ## How to find final functions? Search for ' Final Project' and those will be the summaries. The rest is additional information.
 
 # ---------------------------------------
@@ -1459,7 +1460,7 @@ import pymysql
 # create sqlalchemy engine
 engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
                        .format(user="root",
-                               pw="Lupitabonita1010",
+                               pw="xxxx",
                                db="mydatabase"))
 
 #drop
