@@ -1444,7 +1444,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Lupitabonita1010",
+  password="xxxxxx",
   database="mydatabase"
 ) #If the database does not exist, you will get an error.
 
@@ -1459,7 +1459,7 @@ import pymysql
 # create sqlalchemy engine
 engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
                        .format(user="root",
-                               pw="Lupitabonita1010",
+                               pw="xxxx",
                                db="mydatabase"))
 
 #drop
@@ -1468,7 +1468,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Lupitabonita1010",
+  password="xxxxx",
   database="mydatabase"
 )
 
